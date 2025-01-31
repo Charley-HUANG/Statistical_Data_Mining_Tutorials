@@ -7014,7 +7014,7 @@ StudentID,Gender,Parent_income,IQ,Encourage,Plan
 5988,male,32670,99,encourage,not plan
 5989,male,38520,107,encourage,not plan
 5995,male,9450,105,encourage,not plan
-5996,male,38800,67,not encourage,not plan
+5996,male, ,67,not encourage,not plan
 5998,male,26400,64,not encourage,not plan
 5999,male,27630,131,encourage,not plan
 6000,female,75790,129,encourage,plan
@@ -7112,7 +7112,7 @@ StudentID,Gender,Parent_income,IQ,Encourage,Plan
 6193,female,20790,110,encourage,not plan
 6194,female,31400,65,not encourage,not plan
 6198,male,35090,112,encourage,plan
-6199,female,38900,83,not encourage,not plan
+6199,female,38900,83, ,not plan
 6200,female,41580,93,encourage,not plan
 6201,male,44550,102,encourage,plan
 6203,female,65160,80,encourage,not plan
@@ -7335,7 +7335,7 @@ StudentID,Gender,Parent_income,IQ,Encourage,Plan
 6620,male,34920,102,encourage,not plan
 6621,male,70400,88,encourage,plan
 6625,male,36090,109,encourage,not plan
-6626,female,17100,91,not encourage,not plan
+6626, ,17100,91,not encourage,not plan
 6629,female,21800,83,not encourage,not plan
 6630,female,30700,108,not encourage,not plan
 6632,female,65610,87,encourage,not plan
@@ -7842,7 +7842,7 @@ StudentID,Gender,Parent_income,IQ,Encourage,Plan
 7699,male,63910,97,encourage,plan
 7700,male,80520,107,encourage,plan
 7703,male,29430,103,encourage,not plan
-7704,female,42000,71,not encourage,not plan
+7704,female,42000,71,not encourage, 
 7706,female,52910,102,encourage,plan
 7708,female,59220,121,encourage,not plan
 7711,male,37700,95,not encourage,not plan
@@ -7938,7 +7938,7 @@ StudentID,Gender,Parent_income,IQ,Encourage,Plan
 7876,male,53300,107,not encourage,plan
 7878,female,35500,90,not encourage,not plan
 7879,female,39900,85,not encourage,not plan
-7880,male,40680,104,encourage,not plan
+7880,male,,104,encourage,not plan
 7881,male,44300,66,not encourage,plan
 7882,male,48950,116,encourage,plan
 7884,male,33600,81,not encourage,not plan
@@ -7977,14 +7977,14 @@ StudentID,Gender,Parent_income,IQ,Encourage,Plan
 7954,male,9350,109,encourage,plan
 7957,female,21700,111,not encourage,not plan
 7959,male,75350,139,encourage,plan
-7961,male,32400,108,not encourage,not plan
+7961,male,32400,108, ,not plan
 7965,female,44110,139,encourage,plan
 7967,male,46080,103,encourage,not plan
 7971,female,57240,98,encourage,not plan
 7975,female,39510,120,encourage,not plan
 7977,female,38880,102,encourage,not plan
 7978,female,35800,111,not encourage,not plan
-7980,female,35010,108,encourage,not plan
+7980,female, ,108,encourage,not plan
 7981,female,27200,79,not encourage,not plan
 7982,female,52580,77,encourage,plan
 7986,female,45500,93,not encourage,not plan
@@ -7995,7 +7995,8 @@ StudentID,Gender,Parent_income,IQ,Encourage,Plan
 7993,female,72270,122,encourage,plan
 7994,male,54010,137,encourage,plan
 7995,female,55330,125,encourage,plan
-7996,female,48240,97,encourage,not plan
+7996,female,48240,97, ,not plan
 7998,male,47300,64,not encourage,not plan
-7999,male,24000,103,not encourage,not plan
-8000,male,79200,101,encourage,plan
+7999,male,24000,103, ,not plan
+8000,male,79200, ,encourage,plan
+8001,male, ,,encourage,plan
